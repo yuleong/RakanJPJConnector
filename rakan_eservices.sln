@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rakan_eservices", "rakan_eservices.csproj", "{EBB2AA7C-16C2-4283-9C30-42C0A90B71B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBB2AA7C-16C2-4283-9C30-42C0A90B71B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBB2AA7C-16C2-4283-9C30-42C0A90B71B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBB2AA7C-16C2-4283-9C30-42C0A90B71B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBB2AA7C-16C2-4283-9C30-42C0A90B71B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3365387-87E1-49D0-9FEC-D442AA1A91BD}
+	EndGlobalSection
+EndGlobal
